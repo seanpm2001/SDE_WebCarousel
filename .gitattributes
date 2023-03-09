@@ -32,6 +32,45 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# JavaScript source file
+*.js linguist-detectable=true
+*.js linguist-documentation=false
+*.js linguist-language=JavaScript
+*.cjs linguist-detectable=true
+*.cjs linguist-documentation=false
+*.cjs linguist-language=JavaScript
+*.mjs linguist-detectable=true
+*.mjs linguist-documentation=false
+*.mjs linguist-language=JavaScript
+# Ruby source file
+*.rb linguist-detectable=true
+*.rb linguist-documentation=false
+*.rb linguist-language=Ruby
+*.rbx linguist-detectable=true
+*.rbx linguist-documentation=false
+*.rbx linguist-language=Ruby
+*.ruby linguist-detectable=true
+*.ruby linguist-documentation=false
+*.ruby linguist-language=Ruby
+*.gem linguist-detectable=true
+*.gem linguist-documentation=false
+*.gem linguist-language=Ruby
+# PHP source file
+*.php linguist-detectable=true
+*.php linguist-documentation=false
+*.php linguist-language=PHP
+*.phps linguist-detectable=true
+*.phps linguist-documentation=false
+*.phps linguist-language=PHP
+*.phar linguist-detectable=true
+*.phar linguist-documentation=false
+*.phar linguist-language=PHP
+*.phtml linguist-detectable=true
+*.phtml linguist-documentation=false
+*.phtml linguist-language=PHP
+*.pht linguist-detectable=true
+*.pht linguist-documentation=false
+*.pht linguist-language=PHP
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +200,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2023, Thursday, March 9th at 11:44 am PST)
+# Line count (including blank lines and compiler line): 213
+
 # End of script
